@@ -11,7 +11,6 @@ If you have any improvements or suggestions for this database project, please fe
 
 For questions or inquiries, you can contact the project owner:
 
-- Marlen Nahir
-- [Email](mailto:marlen.maraz@gmail.com)
+- [Nahir Email](mailto:marlen.maraz@gmail.com)
 
 Happy SQL querying!
