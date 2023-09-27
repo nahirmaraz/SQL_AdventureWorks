@@ -9,8 +9,8 @@ This repository contains a MySQL database project based on the widely-used Adven
 If you have any improvements or suggestions for this database project, please feel free to submit a pull request or open an issue.
 ## Contact
 
-For questions or inquiries, you can contact the project owner:
+For questions or inquiries, you can contact me:
 
-- [Nahir Email](mailto:marlen.maraz@gmail.com)
+- [Email](mailto:marlen.maraz@gmail.com)
 
 Happy SQL querying!
